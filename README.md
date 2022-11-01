@@ -14,4 +14,13 @@ Yoga is a group of physical, mental, and spiritual practices or disciplines that
 <li>Cross-platform application with high performance due to flutter.
 </ul>
 
-<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
+# Demo
+
+(We focus the camera on asana poses to demonstrate how the application will work when a user uses it, as we didn't know how to perform them ourselves)
+
+https://user-images.githubusercontent.com/55794720/199171525-8263504b-f483-43b9-8ac2-58e241c6b452.mp4
+
+
+
+https://user-images.githubusercontent.com/55794720/199171567-7f064963-0de8-43df-8a53-028537121a95.mp4
+
