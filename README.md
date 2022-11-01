@@ -11,7 +11,7 @@ Yoga is a group of physical, mental, and spiritual practices or disciplines that
 <li>Real Time AI Pose detector that not only detects single poses but also tracks the whole routine along with the set timers.
 <li>AR demonstrator that visualizes difficult poses to help the user.
 <li>Hands free user experience.
-<li>Cross-platform application with high performance due to flutter.
+<li>Cross-platform application with high performance as we use flutter.
 </ul>
 
 # Demo
