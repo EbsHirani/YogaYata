@@ -16,7 +16,7 @@ Yoga is a group of physical, mental, and spiritual practices or disciplines that
 
 # Demo
 
-(We focus the camera on asana poses to demonstrate how the application will work when a user uses it, as we didn't know how to perform them ourselves)
+(We focus the camera on asana poses to demonstrate how the application will work when a user uses it, as we didn't know how to perform the poses ourselves)
 
 https://user-images.githubusercontent.com/55794720/199171525-8263504b-f483-43b9-8ac2-58e241c6b452.mp4
 
